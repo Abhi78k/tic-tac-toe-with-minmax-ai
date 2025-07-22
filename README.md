@@ -16,7 +16,9 @@
 - The player always plays first. 
 <img width="365" height="408" alt="image" src="https://github.com/user-attachments/assets/7c39e206-2e7d-4f6b-ae42-4805cdb80307" />
 <br>
+
 - If the player loses the board becomes red.
+
 <img width="373" height="407" alt="image" src="https://github.com/user-attachments/assets/5070a960-3eb2-471b-b238-3d717696a94e" />
 
 - The player can never win, it's either a draw or a loss for the player.

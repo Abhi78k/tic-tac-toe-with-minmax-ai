@@ -18,7 +18,7 @@
 <br>
 - If the player loses the board becomes red.
 <img width="373" height="407" alt="image" src="https://github.com/user-attachments/assets/5070a960-3eb2-471b-b238-3d717696a94e" />
-<br>
+
 - The player can never win, it's either a draw or a loss for the player.
 - Press the key `r` to reset the game and play again!
 

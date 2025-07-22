@@ -13,7 +13,7 @@
 - Used numpy for easy calculations.
 
 ## **Demo**:
--The player always plays first. 
+- The player always plays first. 
 <img width="365" height="408" alt="image" src="https://github.com/user-attachments/assets/7c39e206-2e7d-4f6b-ae42-4805cdb80307" />
 <br>
 - If the player loses the board becomes red.

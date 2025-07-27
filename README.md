@@ -2,18 +2,18 @@
 - Refer to `tictactoe.py` for a basic CLI version of the algorithm.
 - Refer to `tictactoe2.py` for a version complete with UI.
 
-# 🤖 Tic Tac Toe with AI (Minimax Algorithm)
+# Tic Tac Toe with AI (Minimax Algorithm)
 
 This project is a fully functional **Tic Tac Toe game** built using **Python** and **Pygame**, where a human plays against an unbeatable **AI powered by the Minimax algorithm**.
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 - 2-player mode: You (player 1 - circles) vs AI (player 2 - crosses)
 - The AI uses the **Minimax algorithm** to make the best possible move every turn
 - You can restart the game anytime by pressing the **`R` key**
 - Green = You win, Red = AI wins, Gray = Draw
 
-## 📦 Features
+## Features
 
 - Clean GUI built with `pygame`
 - AI uses a recursive **Minimax** strategy
@@ -21,7 +21,7 @@ This project is a fully functional **Tic Tac Toe game** built using **Python** a
 - Highlights winner with color-coded symbols
 - Resets with a single key press (`R`)
 
-## 🧠 AI Strategy: Minimax
+## AI Strategy: Minimax
 
 - **Maximizing player (AI)**: tries to maximize score
 - **Minimizing player (You)**: tries to minimize score
@@ -32,7 +32,7 @@ This project is a fully functional **Tic Tac Toe game** built using **Python** a
   - Draw: `0`
 - The AI always plays optimally and is unbeatable
 
-## 🖼️ Game UI
+## Game UI
 
 - 3x3 grid window
 - Circle = Human player (white)
@@ -43,33 +43,23 @@ This project is a fully functional **Tic Tac Toe game** built using **Python** a
   - **Red** → AI wins
   - **Gray** → Draw
 
-## 📂 File Structure
+## File Structure
 
 ```
 tictactoe2.py      # Main game logic and UI
 README.md              # This file
 ```
 
-## 🔧 Requirements
+## Requirements
 
 - Python 3.6+
 - Pygame
 
-### Install dependencies:
 
-```bash
-pip install pygame
-```
 
-## ▶️ Running the Game
+## Example
 
-```bash
-python tictactoe2.py
-```
-
-Use your mouse to click a square and make a move. Press **`R`** to restart at any time.
-
-## 🧪 Example
+- Use your mouse to click a square and make a move. Press **`R`** to restart at any time.
 
 ```
 You click a square → Circle appears
